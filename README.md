@@ -47,6 +47,10 @@
 ### 시연 영상
 https://github.com/user-attachments/assets/c0c956a6-6303-4224-9c73-7ec0b1d16bbc
 
+https://github.com/user-attachments/assets/80a8fb7d-4483-46ac-a019-1844cd375c6f
+
+https://github.com/user-attachments/assets/dfc0e2b9-6c28-48d4-9189-bfd3cf15c4ab
+
 ---
 
 ### 🖥️ 기술 아키텍처
