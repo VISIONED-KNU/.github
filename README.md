@@ -17,6 +17,7 @@
 | --- | --- | --- | --- |
 | Front-end, 기획 | Front-end | Back-end(STT, TTS 구현) | Back-end(Google API 구현), Design |
 | @chohaeminn | @ale8ander | @NishthaLath | @Codepumpking  |
+| ![image](https://github.com/user-attachments/assets/91a19593-8640-417f-8a8f-d276d7482043) | ![image](https://github.com/user-attachments/assets/3eaeb173-b5b1-4d68-ae6d-f0e297d1ceb7) | ![image](https://github.com/user-attachments/assets/5f750d21-cc18-4d7b-b837-1fa32c2771c7) | ![image](https://github.com/user-attachments/assets/73643dd8-ca18-48a8-b289-aa15871e8e04)
 
 ---
 
