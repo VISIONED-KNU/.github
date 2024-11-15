@@ -1,3 +1,5 @@
+
+https://github.com/user-attachments/assets/5a73fc5e-e9da-4381-b8b8-ad5e55df4ad7
 # 🚌 교통약자를 위한 인쇄형 안내 키오스크
 ![image](https://github.com/user-attachments/assets/2a9a7ca7-8e54-4513-b285-b60347ee709f)
 
@@ -17,7 +19,8 @@
 | --- | --- | --- | --- |
 | Front-end, 기획 | Front-end | Back-end(STT, TTS 구현) | Back-end(Google API 구현), Design |
 | @chohaeminn | @ale8ander | @NishthaLath | @Codepumpking  |
-| ![image](https://github.com/user-attachments/assets/91a19593-8640-417f-8a8f-d276d7482043) | ![image](https://github.com/user-attachments/assets/3eaeb173-b5b1-4d68-ae6d-f0e297d1ceb7) | ![image](https://github.com/user-attachments/assets/5f750d21-cc18-4d7b-b837-1fa32c2771c7) | ![image](https://github.com/user-attachments/assets/73643dd8-ca18-48a8-b289-aa15871e8e04)
+| ![image](https://github.com/user-attachments/assets/97c7243b-10a5-41fa-a6c8-a7a66d9a05b5) | ![image](https://github.com/user-attachments/assets/79e0b7f0-ca94-4420-92a3-dc2bbacde397) | ![image](https://github.com/user-attachments/assets/dca32df1-f4ec-4b30-ab55-85221d90b792) | ![image](https://github.com/user-attachments/assets/24fd241a-cb9c-4e4f-a11a-a2190ce42f38)
+
 
 ---
 
@@ -47,11 +50,11 @@
     ---
 ### 시연 영상
 
-https://github.com/user-attachments/assets/2941bf64-666d-4467-98cf-dd156381b958
+https://github.com/user-attachments/assets/ea1db9d0-e893-4140-b8b5-936a34501f51
 
-https://github.com/user-attachments/assets/02ed5b5e-6b99-4a3a-99c6-02c16187bce3
+https://github.com/user-attachments/assets/adc7bf96-c417-4199-a60c-454b562029e9
 
-https://github.com/user-attachments/assets/f58fd961-0794-42c6-9fa9-b53d2e2c6425
+https://github.com/user-attachments/assets/5b7f69b6-6e31-4145-b36e-4d3c4a41e5df
 
 ---
 
