@@ -1,5 +1,3 @@
-
-https://github.com/user-attachments/assets/5a73fc5e-e9da-4381-b8b8-ad5e55df4ad7
 # 🚌 교통약자를 위한 인쇄형 안내 키오스크
 ![image](https://github.com/user-attachments/assets/2a9a7ca7-8e54-4513-b285-b60347ee709f)
 
