@@ -54,7 +54,8 @@ https://github.com/user-attachments/assets/adc7bf96-c417-4199-a60c-454b562029e9
 
 https://github.com/user-attachments/assets/5b7f69b6-6e31-4145-b36e-4d3c4a41e5df
 
-STT 시연영상은 용량문제로 인하여 유튜브에 업로드하였습니다.
+STT 시연영상 (용량 문제로 인하여 유튜브 링크 첨부)
+https://youtube.com/shorts/wUzFPJoQFkM?si=IqeyyNgyLFtM0VEn
 
 ---
 
