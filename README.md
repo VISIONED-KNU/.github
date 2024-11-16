@@ -15,7 +15,7 @@
 
 | 조해민 | 이주영 | 니스타 | 박찬호 |
 | --- | --- | --- | --- |
-| Front-end, 기획 | Front-end | Back-end(STT, TTS 구현) | Back-end(Google API 구현), Design |
+| Front-end, 기획 | Front-end | Back-end(Google STT, TTS API 구현) | Back-end(Google Maps API 구현), Design |
 | @chohaeminn | @ale8ander | @NishthaLath | @Codepumpking  |
 | ![image](https://github.com/user-attachments/assets/97c7243b-10a5-41fa-a6c8-a7a66d9a05b5) | ![image](https://github.com/user-attachments/assets/79e0b7f0-ca94-4420-92a3-dc2bbacde397) | ![image](https://github.com/user-attachments/assets/dca32df1-f4ec-4b30-ab55-85221d90b792) | ![image](https://github.com/user-attachments/assets/24fd241a-cb9c-4e4f-a11a-a2190ce42f38)
 
